@@ -43,7 +43,7 @@ Change the heading, subheading, and avatar image in the masthead section (<heade
 
 # Customizing Portfolio Section
 Add or remove portfolio items by updating the content in the Portfolio Section 
-# (<section class="page-section portfolio" id="portfolio">).
+(<section class="page-section portfolio" id="portfolio">).
 Replace the sample images (assets/img/portfolio/) with images of your own projects.
 
 # Modifying About Section
