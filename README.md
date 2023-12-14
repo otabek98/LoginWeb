@@ -31,20 +31,20 @@ Sections for Portfolio, About, and Contact.
 
 # Updating Navigation
 Modify the links in the navigation bar by updating the <a> elements in the navigation section 
-# ('<nav>').
+# (<nav>).
 
 # Changing Logo and Favicon
 
 Replace the logo image ('assets/img/avataaars.svg') with your own avatar or logo.
-Update the favicon by replacing the 'assets/favicon.ico' file.
+Update the favicon by replacing the  assets/favicon.ico file.
 
 # Updating Masthead Section
-Change the heading, subheading, and avatar image in the masthead section ('<header>').
+Change the heading, subheading, and avatar image in the masthead section (<header>).
 
 # Customizing Portfolio Section
 Add or remove portfolio items by updating the content in the Portfolio Section 
 # (<section class="page-section portfolio" id="portfolio">).
-Replace the sample images ('assets/img/portfolio/') with images of your own projects.
+Replace the sample images (assets/img/portfolio/) with images of your own projects.
 
 # Modifying About Section
 Update the content
